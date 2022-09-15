@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Puig Mathieu
 
-# About me : 
+## About me : 
 
 - 🔭 I’m currently working on a JAVA API and a web application
 

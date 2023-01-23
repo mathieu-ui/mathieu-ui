@@ -2,9 +2,7 @@
 
 ## About me : 
 
-- 🔭 I’m currently working on a JAVA API and a web application
-
-- 🌱 I’m currently learning JAVA, React, TypeSrcipt
+- 🔭 I’m currently working on a IOT projects
 
 - 📫 How to reach me: puig.mathieu.pro@gmail.com
 

@@ -2,7 +2,7 @@
 
 ## About me : 
 
-- 🔭 I’m currently working on a IOT projects
+- 🔭 I’m currently working on automation projects
 
 - 📫 How to reach me: puig.mathieu.pro@gmail.com
 
